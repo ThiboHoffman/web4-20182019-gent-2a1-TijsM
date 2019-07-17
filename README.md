@@ -2,6 +2,8 @@
 
 De webapplicatie in online te vinden via: https://tournamentapp-c18e6.firebaseapp.com/
 
+(de backend van de site wordt niet meer gehost)
+
 ## Concept
 
 
